@@ -1,0 +1,3 @@
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+API = api.openweathermap.org/data/2.5/weather?q=Pune&appid=b14425a6554d189a2d7dc18a8e7d7263
